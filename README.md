@@ -28,8 +28,10 @@ Please follow this format when adding a new game:
 
 ```markdown
 ### [Game Title]
-**Developer:** Studio/Developer Name  
-**Genre:** Genre Type  
+**Developer:** Studio/Developer Name
+
+**Genre:** Genre Type
+
 **Year:** Release Year  
 
 ![Game Screenshot/Image](link-to-image)
@@ -47,8 +49,11 @@ Brief description of the game (2-3 sentences).
 ## 🎮 Games
 
 ### AB AETERNO
+
 **Developer:** Irakli Kokrashvili
+
 **Genre:** VR Survival  
+
 **Year:** TBD
 
 <img width="1337" alt="Screenshot 2025-06-04 at 03 05 57" src="https://github.com/user-attachments/assets/383bd88e-9abb-4e02-8ea7-768bf0a4e9e2" />
@@ -61,8 +66,11 @@ AB AETERNO is a story-driven hardcore survival experience with both well known a
 ---
 
 ### Glass Cannon
+
 **Developer:** Lisi Soft
+
 **Genre:** Physics-based Roguelike  
+
 **Year:** TBD  
 
 <img width="1337" alt="Screenshot 2025-06-04 at 03 06 58" src="https://github.com/user-attachments/assets/bee12fb8-16b4-4761-a2cb-ca6ad6f56a80" />
@@ -78,7 +86,9 @@ Glass Cannon is a difficult but chill physics-based roguelike where you plan eac
 
 ### Difficult Game About Letters
 **Developer:** Abelix Games
+
 **Genre:** Platformer/Adventure  
+
 **Year:** TBD  
 
 <img width="1335" alt="Screenshot 2025-06-04 at 03 08 10" src="https://github.com/user-attachments/assets/eab46dba-096f-4ec6-8701-62246c575be6" />

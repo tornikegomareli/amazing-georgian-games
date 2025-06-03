@@ -12,6 +12,7 @@ To add your game to this list, please submit a Pull Request with the following i
 
 - **Game Title** (required)
 - **Short Description** (required, max 2-3 sentences)
+- **Screenshot or Image** (required) - A screenshot of the game or an image that represents the game
 - **Links** (at least one required):
   - Steam Store page
   - GitHub repository
@@ -30,6 +31,8 @@ Please follow this format when adding a new game:
 **Developer:** Studio/Developer Name  
 **Genre:** Genre Type  
 **Year:** Release Year  
+
+![Game Screenshot/Image](link-to-image)
 
 Brief description of the game (2-3 sentences).
 

@@ -47,7 +47,7 @@ Brief description of the game (2-3 sentences).
 ## 🎮 Games
 
 ### AB AETERNO
-**Developer:** [Irakli Kokrashvili]  
+**Developer:** Irakli Kokrashvili
 **Genre:** VR Survival  
 **Year:** TBD
 
@@ -61,7 +61,7 @@ AB AETERNO is a story-driven hardcore survival experience with both well known a
 ---
 
 ### Glass Cannon
-**Developer:** [Lisi Soft]  
+**Developer:** Lisi Soft
 **Genre:** Physics-based Roguelike  
 **Year:** TBD  
 
@@ -77,7 +77,7 @@ Glass Cannon is a difficult but chill physics-based roguelike where you plan eac
 ---
 
 ### Difficult Game About Letters
-**Developer:** [Abelix Games]  
+**Developer:** Abelix Games
 **Genre:** Platformer/Adventure  
 **Year:** TBD  
 

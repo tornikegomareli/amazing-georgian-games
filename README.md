@@ -1,10 +1,10 @@
-# <Ï<Í Awesome Georgian Games
+# ‚ù§Ô∏è Awesome Georgian Games
 
-A curated list of video games developed by Georgian developers and studios. This repository aims to showcase the growing Georgian game development scene.
+A list of video games developed by Georgian developers and studios. This repository aims to showcase the growing Georgian game development scene.
 
-## <Æ How to Contribute
+## ‚úÖ How to Contribute
 
-We welcome contributions from the community! If you know of a Georgian-made game that's not on our list, please feel free to add it.
+If you know of a Georgian-made game that's not on our list, please feel free to add it by opening PR. Or if you have one and it is not in our list.
 
 ### Adding Your Game
 
@@ -41,64 +41,56 @@ Brief description of the game (2-3 sentences).
 
 ---
 
-## <Ø Games
+## üéÆ Games
 
 ### AB AETERNO
-**Developer:** [Georgian Studio Name]  
+**Developer:** [Irakli Kokrashvili]  
 **Genre:** VR Survival  
-**Year:** 2021  
+**Year:** Soon
 
 AB AETERNO is a story-driven hardcore survival experience with both well known and brand new survival mechanics designed and polished for VR from the ground up.
 
 **Links:**
 - [Steam](https://store.steampowered.com/app/1625630/AB_AETERNO/)
-
 ---
 
 ### Glass Cannon
-**Developer:** [Georgian Studio Name]  
+**Developer:** [Lisi Soft]  
 **Genre:** Physics-based Roguelike  
-**Year:** 2024  
+**Year:** TBD  
 
 Glass Cannon is a difficult but chill physics-based roguelike where you plan each of your shots carefully to eliminate all your enemies in as few shots as possible. The game plays like a slower, almost turn-based shoot-em-up where you make builds and combinations that help you score big and ravage your enemies.
 
 **Links:**
 - [Steam](https://store.steampowered.com/app/3325030/Glass_Cannon/)
+- [Lisi Soft Website](https://lisisoft.ge/)
 
 ---
 
 ### [Letter Platformer Game]
-**Developer:** [Georgian Studio Name]  
+**Developer:** [Abelix Games]  
 **Genre:** Platformer/Adventure  
 **Year:** TBD  
 
 Transform into letters to overcome platforming challenges and save your friend from evil King in this crayon-style adventure!
 
 **Links:**
-- [TBD]
+- [Steam](https://store.steampowered.com/app/3440890/A_Difficult_Game_About_Letters/)
 
 ---
 
-## =  Statistics
-
-- Total Games: 3
-- Genres: VR, Roguelike, Platformer
-- Platforms: Steam, TBD
-
----
-
-## > Support Georgian Game Development
+## ‚ù§Ô∏è Support Georgian Game Development
 
 Consider wishlisting, purchasing, or sharing these games to support the Georgian game development community!
 
 ---
 
-## =‹ License
+## License
 
 This list is available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 ---
 
 <p align="center">
-  Made with d by the Georgian gaming community
+  Made with ‚ù§Ô∏è by Tornike Gomareli and Devtherapy community
 </p>

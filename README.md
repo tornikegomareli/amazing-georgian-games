@@ -49,7 +49,10 @@ Brief description of the game (2-3 sentences).
 ### AB AETERNO
 **Developer:** [Irakli Kokrashvili]  
 **Genre:** VR Survival  
-**Year:** Soon
+**Year:** TBD
+
+<img width="1337" alt="Screenshot 2025-06-04 at 03 05 57" src="https://github.com/user-attachments/assets/383bd88e-9abb-4e02-8ea7-768bf0a4e9e2" />
+
 
 AB AETERNO is a story-driven hardcore survival experience with both well known and brand new survival mechanics designed and polished for VR from the ground up.
 
@@ -62,6 +65,9 @@ AB AETERNO is a story-driven hardcore survival experience with both well known a
 **Genre:** Physics-based Roguelike  
 **Year:** TBD  
 
+<img width="1337" alt="Screenshot 2025-06-04 at 03 06 58" src="https://github.com/user-attachments/assets/bee12fb8-16b4-4761-a2cb-ca6ad6f56a80" />
+
+
 Glass Cannon is a difficult but chill physics-based roguelike where you plan each of your shots carefully to eliminate all your enemies in as few shots as possible. The game plays like a slower, almost turn-based shoot-em-up where you make builds and combinations that help you score big and ravage your enemies.
 
 **Links:**
@@ -70,10 +76,12 @@ Glass Cannon is a difficult but chill physics-based roguelike where you plan eac
 
 ---
 
-### [Letter Platformer Game]
+### Difficult Game About Letters
 **Developer:** [Abelix Games]  
 **Genre:** Platformer/Adventure  
 **Year:** TBD  
+
+<img width="1335" alt="Screenshot 2025-06-04 at 03 08 10" src="https://github.com/user-attachments/assets/eab46dba-096f-4ec6-8701-62246c575be6" />
 
 Transform into letters to overcome platforming challenges and save your friend from evil King in this crayon-style adventure!
 

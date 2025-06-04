@@ -117,6 +117,24 @@ Transform into letters to overcome platforming challenges and save your friend f
 
  ---  
 
+  ### Confused Driver
+**Developer:** Davit Kurasbediani \ Wise Bu
+
+**Genre:** Casual/Racing  
+
+**Year:** 2024  
+
+<img width="400" alt="Screenshot 2025-06-04 at 03 08 10" src="https://play-lh.googleusercontent.com/8nUkK6IsvzoxYTHYV2cJc16FPnDGxYO_p8toxrfHnm0sylblVLUWnaI8PsI-jOkr9Qw=w2560-h1440-rw" />
+<img width="400" alt="Screenshot 2025-06-04 at 03 08 10" src="https://play-lh.googleusercontent.com/z9aQI5jQaaJN_Hv7V5W1AB3rAkIlAiq5LI4Z1zWUzGyIAg8sKU4m_gUXfshg4Ey8MzI=w2560-h1440-rw" />
+
+Confused Driver is a game about the driver who jumps between cars, reaches high score and speed and unlocks new cars!
+
+**Links:**
+- [Apple Store](https://apps.apple.com/us/app/confused-driver/id6736571361?ct=Tap33759347)
+- [Google Store](https://play.google.com/store/apps/details?id=com.WiseBu.ConfusedDriver&hl=en&pli=1) 
+
+---
+
 ## ❤️ Support Georgian Game Development
 
 Consider wishlisting, purchasing, or sharing these games to support the Georgian game development community!

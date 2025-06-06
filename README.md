@@ -131,8 +131,24 @@ Confused Driver is a game about the driver who jumps between cars, reaches high 
 
 **Links:**
 - [Apple Store](https://apps.apple.com/us/app/confused-driver/id6736571361?ct=Tap33759347)
-- [Google Store](https://play.google.com/store/apps/details?id=com.WiseBu.ConfusedDriver&hl=en&pli=1) 
+- [Google Store](https://play.google.com/store/apps/details?id=com.WiseBu.ConfusedDriver&hl=en&pli=1)
 
+  ---
+
+### The Seven Enchantments
+**Developer:** Revolt Entertainment
+
+**Genre:** Survival Horror 
+
+**Year:** TBD  
+
+<img width="1335" alt="Screenshot 2025-06-04 at 03 08 10" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3612720/2f1762a76bfd927b31c9cb6a2a1f983e736732a1/header.jpg?t=1745532327" />
+
+Play as Józef of Místov a conman exorcist. Discover the unique story through clues about what dark mysteries fell upon the denizens of a remote village of Pradonin, all while trying to survive the Horrors along the way.
+
+**Links:**
+- [Steam](https://store.steampowered.com/app/3612720/The_Seven_Enchantments/)
+- [Epic Store](https://store.epicgames.com/en-US/p/the-seven-enchantments-374db8)
 ---
 
 ## ❤️ Support Georgian Game Development

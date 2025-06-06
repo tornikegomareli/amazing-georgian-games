@@ -133,7 +133,24 @@ Confused Driver is a game about the driver who jumps between cars, reaches high 
 - [Apple Store](https://apps.apple.com/us/app/confused-driver/id6736571361?ct=Tap33759347)
 - [Google Store](https://play.google.com/store/apps/details?id=com.WiseBu.ConfusedDriver&hl=en&pli=1)
 
-  ---
+--- 
+
+### A Bus Story
+**Developer:** PatnosD
+
+**Genre:** Narrative Adventure
+
+**Year:** 2025
+
+![NGda8a](https://github.com/user-attachments/assets/928ceda9-14d0-4b8a-86b1-99bed8208f77)
+
+
+A Bus Story is a quiet, text-driven narrative set on a long-distance bus ride with no clear destination. You’ve run away from home—but the road ahead feels endless.
+
+**Links:**
+ - [itch.io](https://patnosd.itch.io/a-bus-story)
+
+---
 
 ### The Seven Enchantments
 **Developer:** Revolt Entertainment

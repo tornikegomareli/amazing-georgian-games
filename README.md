@@ -168,6 +168,22 @@ Play as Józef of Místov a conman exorcist. Discover the unique story through c
 - [Epic Store](https://store.epicgames.com/en-US/p/the-seven-enchantments-374db8)
 ---
 
+### Galaxy Wars
+**Developer:** Konstantine Tsirgvava
+
+**Genre:** Action
+
+**Year:** 2025
+
+<img width="1280" alt="Galaxy Wars" src="https://github.com/user-attachments/assets/54b64155-6c11-4bfc-85f3-e0471f6fae1e" />
+
+Galaxy Wars is a retro-style 2D space shooter inspired by classic SEGA games. Blast alien monsters, dodge meteors, collect coins, and unlock new ships as you climb the global leaderboard. With pixel art visuals, 808-inspired sound effects, and fast-paced action, it’s designed to bring nostalgic arcade vibes to your iPhone.  🚀 👾
+
+**Links:**
+- [App Store](https://apps.apple.com/ge/app/galaxywars/id6705131241)
+
+---
+
 ## ❤️ Support Georgian Game Development
 
 Consider wishlisting, purchasing, or sharing these games to support the Georgian game development community!

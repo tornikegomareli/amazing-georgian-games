@@ -98,7 +98,26 @@ Transform into letters to overcome platforming challenges and save your friend f
 **Links:**
 - [Steam](https://store.steampowered.com/app/3440890/A_Difficult_Game_About_Letters/)
 
+
+
 ---
+
+### Flappy Bird (C++)
+
+**Developer:** Sony (cpp wizard) / Luka Guledani
+
+**Genre:** Arcade / Side-scroller  
+
+**Year:** 2025  
+
+[![Watch the Gameplay Video](https://img.youtube.com/vi/vZ1YpPqAJDw/0.jpg)](https://youtu.be/vZ1YpPqAJDw)
+
+A simple clone of the classic Flappy Bird game built in C++ 
+
+**Links:**
+- [GitHub](https://github.com/Lussskki/flappy-bird)
+- [Itch.io](https://lussskki.itch.io/flappybird)
+
 
 ## ❤️ Support Georgian Game Development
 

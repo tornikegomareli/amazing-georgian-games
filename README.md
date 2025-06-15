@@ -100,7 +100,7 @@ Transform into letters to overcome platforming challenges and save your friend f
 
 ---
 ### Pnight
-**Developer:** Sony (cpp wizard) Luka Guledani
+**Developer:** Sony (cpp wizard) / Luka Guledani
 
 **Genre:** Platformer
 
